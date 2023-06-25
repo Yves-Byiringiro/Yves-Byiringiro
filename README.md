@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [www.ybyiringiro.com](www.ybyiringiro.com)
 
-- 💬 Ask me about **Microservices, Django, Nodejs/Express, Reactjs**
+- 💬 Ask me about **Java, Python/Django, JavaScript/React JS/React Native/Express, Microservices**
 
-- 📫 How to reach me **ybyiring@gmail.com**
+- 📫 How to reach me **ybyiring@alumni.cmu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
