@@ -106,7 +106,7 @@
     </p>
 </div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yves-byiringiro&show_icons=true&locale=en&layout=compact" alt="yves-byiringiro" />
+<img  style="background-color:black;"align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yves-byiringiro&show_icons=true&locale=en&layout=compact" alt="yves-byiringiro" />
 
 
 
