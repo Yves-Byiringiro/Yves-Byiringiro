@@ -1,6 +1,6 @@
 <p align="left">Hi there 👋</p>
 <p align="left">My name is Yves. I am a Software Engineer</p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" >
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" >
 
 👨‍💻 Tech Stack include:
 
