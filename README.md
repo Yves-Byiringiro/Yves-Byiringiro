@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Yves Byiringiro</h1>
-<h3 align="center">A Fullstack Software Engineer</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">My name is Yves. I am a Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yves-byiringiro&label=Profile%20views&color=0e75b6&style=flat" alt="yves-byiringiro" /> </p>
+Tech Stack include:
 
-- 🌱 I’m currently learning **Micro frontend**
+- 🌱 I’m currently learnin **Micro frontend**
 
 - 👨‍💻 All of my projects are available at [www.ybyiringiro.com](www.ybyiringiro.com)
 
