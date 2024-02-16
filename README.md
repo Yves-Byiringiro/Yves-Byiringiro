@@ -2,15 +2,17 @@
 <p align="left">My name is Yves. I am a Software Engineer</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" >
 
-Tech Stack include:
+👨‍💻 Tech Stack include:
+
+- Python/Django
+- MERN(MongoDB, Express, React, NodeJS)
+
+
 
 - 🌱 I’m currently learnin **Micro frontend**
-
-- 👨‍💻 All of my projects are available at [www.ybyiringiro.com](www.ybyiringiro.com)
-
 - 💬 Ask me about **Java, Python/Django, JavaScript/React JS/React Native/Express, Microservices**
 
-- 📫 How to reach me **ybyiring@alumni.cmu.edu**
+<p>📫 Do you have a message for me? Feel free to send it to ybyiring@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
