@@ -8,7 +8,7 @@
 - MERN(MongoDB, Express, React, NodeJS)
 
 <p>🌱 I’m currently exploring **Microservices**</p>
-<p style="display: flex; justify-content: center;">💬 Do you have a message for me? Feel free to send it to ybyiring@gmail.com or connect at <a href="https://linkedin.com/in/yves byiringiro" target="blank">
+<p style="display: flex; justify-content: center;">💬 Do you have a message for me? Feel free to send it to ybyiring@gmail.com or connect at<a href="https://linkedin.com/in/yves byiringiro" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
             alt="yves byiringiro linkedin profile" height="10" width="30" />
     </a></p>
