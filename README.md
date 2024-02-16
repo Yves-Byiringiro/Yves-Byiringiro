@@ -13,8 +13,8 @@
 - 💬 Ask me about **Java, Python/Django, JavaScript/React JS/React Native/Express, Microservices**
 
 <p>💬 Do you have a message for me? Feel free to send it to ybyiring@gmail.com</p>
-<p>💬 Connect me at
-    <a href="https://linkedin.com/in/yves byiringiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-      generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yves byiringiro" height="20" width="20" /></a>
+<p>Connect me at
+    <a href="https://linkedin.com/in/yves byiringiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-      generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yves byiringiro" height="30" width="40" /></a>
 </p>
 
 
